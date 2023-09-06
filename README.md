@@ -9,8 +9,8 @@
 
 📫 If you'd like to discuss technology, coffee, or anything else, don't hesitate to reach out. I'm always open to new connections and exciting collaborations!
 
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LucashenriqueDF&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=LucashenriqueDF&show_icons=true)
 
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LucashenriqueDF&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
